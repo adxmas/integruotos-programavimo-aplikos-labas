@@ -55,25 +55,6 @@ namespace LAB3
                         }
                     case 6:
                         {
-                            Console.WriteLine("Type : List | Sorted : 10000 | Time elapsed: 00:00:00:1220521");
-                            Console.WriteLine("Type : LinkedList | Sorted : 10000 | Time elapsed: 00:00:00:1013865");
-                            Console.WriteLine("Type : Queue | Sorted : 10000 | Time elapsed: 00:00:00:0920521");
-
-                            Console.WriteLine();
-                            Console.WriteLine("Type : List | Sorted : 100000 | Time elapsed: 00:00:00:965623");
-                            Console.WriteLine("Type : LinkedList | Sorted : 100000 | Time elapsed: 00:00:00:9545612");
-                            Console.WriteLine("Type : Queue | Sorted : 100000 | Time elapsed: 00:00:00:0920521");
-
-                            Console.WriteLine();
-                            Console.WriteLine("Type : List | Sorted : 1000000 | Time elapsed: 00:00:00:1945412");
-                            Console.WriteLine("Type : LinkedList | Sorted : 1000000 | Time elapsed: 00:00:12:4513865");
-                            Console.WriteLine("Type : Queue | Sorted : 1000000 | Time elapsed: 00:00:09:9920521");
-
-                            Console.WriteLine();
-                            Console.WriteLine("Type : List | Sorted : 10000000 | Time elapsed: 00:00:02:1220521");
-                            Console.WriteLine("Type : LinkedList | Sorted : 10000000 | Time elapsed: 00:02:20:1013865");
-                            Console.WriteLine("Type : Queue | Sorted : 10000000 | Time elapsed: 00:03:05:0920521");
-
                             Student.generateStudents(1000);
                             Student.generateStudents(10000);
                             Student.generateStudents(100000);
