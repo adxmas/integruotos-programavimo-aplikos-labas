@@ -29,11 +29,6 @@ ANALYSIS RESULTS:
 
 ![alt text](https://github.com/adxmas/integruotos-programavimo-aplikos-labas/blob/v0.4-release/failed-passed-students-time.png)
 
-v0.5
-
-- added different container analysis
-
-result:
 
 ![alt text](https://github.com/adxmas/integruotos-programavimo-aplikos-labas/blob/v0.5-release/FINAL.png)
 
