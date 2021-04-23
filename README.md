@@ -30,8 +30,6 @@ ANALYSIS RESULTS:
 ![alt text](https://github.com/adxmas/integruotos-programavimo-aplikos-labas/blob/v0.4-release/failed-passed-students-time.png)
 
 
-![alt text](https://github.com/adxmas/integruotos-programavimo-aplikos-labas/blob/v0.5-release/FINAL.png)
-
 v1.0 release
 - Basic usage
   - start program, then choose number between (1-7) to pick which action you want to do
